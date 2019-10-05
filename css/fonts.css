@@ -3,14 +3,14 @@
 @font-face {
   font-family: tharujamaanu;
   src: url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Bold.eot);
-  src: url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Bold.eot?#iefix) format('embedded-opentype'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Bold.woff2) format('woff2'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Bold.woff) format('woff'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/maaldheefee/thaana-fonts/Tharujamaanu-Bold.eot?#iefix) format('embedded-opentype'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Bold.woff2) format('woff2'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Bold.woff) format('woff'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Bold.ttf) format('truetype');
   font-weight: 700;
   font-style: normal
 }
 @font-face {
   font-family: tharujamaanu;
   src: url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Light.eot);
-  src: url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Light.eot?#iefix) format('embedded-opentype'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Light.woff2) format('woff2'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Light.woff) format('woff'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Light.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/maaldheefee/thaana-fonts/Tharujamaanu-Light.eot?#iefix) format('embedded-opentype'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Light.woff2) format('woff2'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Light.woff) format('woff'), url(https://rawgit.com/maaldheefee/thaana-fonts/master/Tharujamaanu-Light.ttf) format('truetype');
   font-weight: 400;
   font-style: normal
 }
@@ -18,7 +18,7 @@
 @font-face {
   font-family: 'mv_a_waheed';
   src: url(https://rawgit.com/maaldheefee/thaana-fonts/master/mvawaheed-webfont);
-  src: url(https://rawgit.com/maaldheefee/thaana-fonts/master/mvawaheed-webfont.eot?#iefix) format('embedded-opentype'),url(https://rawgit.com/maaldheefee/thaana-fonts/master/mvawaheed-webfont.woff2) format('woff2'),url(https://rawgit.com/maaldheefee/thaana-fonts/master/mvawaheed-webfont.woff) format('woff'),url(https://rawgit.com/maaldheefee/thaana-fonts/master/mvawaheed-webfont.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/maaldheefee/thaana-fonts/mvawaheed-webfont.eot?#iefix) format('embedded-opentype'),url(https://rawgit.com/maaldheefee/thaana-fonts/master/mvawaheed-webfont.woff2) format('woff2'),url(https://rawgit.com/maaldheefee/thaana-fonts/master/mvawaheed-webfont.woff) format('woff'),url(https://rawgit.com/maaldheefee/thaana-fonts/master/mvawaheed-webfont.ttf) format('truetype');
   font-weight: 700;
   font-style: normal;
 }
@@ -26,10 +26,10 @@
 @font-face{
 	font-family: 'MV_AammuFK';
     src: url('https://rawgit.com/maaldheefee/thaana-fonts/master/mvaammufk.eot');
-    src: url('https://rawgit.com/maaldheefee/thaana-fonts/master/mvaammufk.eot?#iefix') format('embedded-opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/maaldheefee/thaana-fonts/mvaammufk.eot?#iefix') format('embedded-opentype'),
          url('https://rawgit.com/maaldheefee/thaana-fonts/master/mvaammufk.woff') format('woff'),
          url('https://rawgit.com/maaldheefee/thaana-fonts/master/mvaammufk.ttf') format('truetype'),
-         url('https://rawgit.com/maaldheefee/thaana-fonts/master/mvaammufk.svg#MV_AammuFK') format('svg');
+         url('https://cdn.jsdelivr.net/gh/maaldheefee/thaana-fonts/mvaammufk.svg#MV_AammuFK') format('svg');
     font-weight: bold;
     font-style: normal;
 }
